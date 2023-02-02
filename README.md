@@ -33,7 +33,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
   </tr>
   <tr>
     <td>AI | ML | DL</td>
-    <td>Anaconda | Scikit-learn | PyCaret | PyTorch | Captum | W&amp;B | Streamlit</td>
+    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit</td>
   </tr>
   <tr>
     <td>IDE</td>
