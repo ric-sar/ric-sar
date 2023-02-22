@@ -12,14 +12,6 @@ Seeking to leverage research in data field through PhD and leadership expertise 
 <table>
 <tbody>
   <tr>
-    <td>Video | Photo | Audio Editing</td>
-    <td>Cyberlink PowerDirector | Adobe Photoshop, Lightroom | Audacity</td>
-  </tr>
-  <tr>
-    <td>Office Automation</td>
-    <td>Microsoft Office, Visio, Forms, Project | Draw.io | Overleaf</td>
-  </tr>
-  <tr>
     <td>Data Visualization</td>
     <td>Tableau | Matplotlib, Seaborn, Plotly | ggplot2</td>
   </tr>
@@ -33,7 +25,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
   </tr>
   <tr>
     <td>AI | ML | DL</td>
-    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit</td>
+    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | RLlib</td>
   </tr>
   <tr>
     <td>IDE</td>
@@ -48,8 +40,3 @@ Seeking to leverage research in data field through PhD and leadership expertise 
 
 # I’m currently learning 🌱 
 * Reinforcement Learning
-* Docker
-* Apache Kafka
-* Terraform
-* Competitive programming
-* System design
