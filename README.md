@@ -1,6 +1,6 @@
 # Hi! I'm Riccardo :rocket:
 ![bkg](https://user-images.githubusercontent.com/82369153/205514876-bfc3e8df-0601-4563-9c01-f2077c0a17dd.jpeg)
-PhD Student in Systems, Energy, Computer and Telecommunications Engineering @ [UniCT](https://www.unict.it/) with Economics background and one year of R&D experience in  microelectronics field @ [STMicroelectronics](https://www.st.com/).
+PhD Student in Computer Engineering @ [UniCT](https://www.unict.it/) with Economics background and one year of R&D experience in  microelectronics field @ [STMicroelectronics](https://www.st.com/).
 
 In the previous role, identified possible deep learning solutions to solve chip shortage by improving production yield at no cost to the company.
 
