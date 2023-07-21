@@ -1,5 +1,5 @@
 # :rocket: Hi! I'm Riccardo
-![bkg](https://user-images.githubusercontent.com/82369153/205514876-bfc3e8df-0601-4563-9c01-f2077c0a17dd.jpeg)
+![image_about](https://github.com/ric-sar/ric-sar/assets/82369153/ecb1aed9-5874-45e0-abcf-af7019a26975)
 PhD Student in Computer Engineering @ [UniCT](https://www.unict.it/) with Economics background and one year of R&D experience in  microelectronics field @ [STMicroelectronics](https://www.st.com/).
 
 In the previous role, identified possible deep learning solutions to solve chip shortage by improving production yield at no cost to the company.
