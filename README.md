@@ -26,7 +26,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
   </tr>
   <tr>
     <td>AI | ML | DL</td>
-    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | RLlib</td>
+    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | SB3</td>
   </tr>
   <tr>
     <td>IDE</td>
@@ -43,6 +43,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
 * Reinforcement Learning
 
 # :fire: Something interesting
+* We gave a demonstration YOLOv8 during the SHARPER Night event, if you are interested in check [THIS](https://github.com/ric-sar/sharpernight2023) repo
 * [Conda Cheat Sheet](https://github.com/ric-sar/conda_cheatsheet)
 * [LaTeX Cheat Sheet](https://github.com/ric-sar/latex_cheat_sheet)
 * [The Ultimate PhD Stundent Guide](https://github.com/ric-sar/ultimate_phd_student_guide)
