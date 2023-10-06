@@ -43,7 +43,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
 * Reinforcement Learning
 
 # :fire: Something interesting
-* We gave a demonstration YOLOv8 during the SHARPER Night event, if you are interested in check [THIS](https://github.com/ric-sar/sharpernight2023) repo
+* We gave a demonstration of YOLOv8 during the SHARPER Night event, if you are interested in check [THIS](https://github.com/ric-sar/sharpernight2023) repo
 * [Conda Cheat Sheet](https://github.com/ric-sar/conda_cheatsheet)
 * [LaTeX Cheat Sheet](https://github.com/ric-sar/latex_cheat_sheet)
 * [The Ultimate PhD Stundent Guide](https://github.com/ric-sar/ultimate_phd_student_guide)
