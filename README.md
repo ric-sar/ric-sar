@@ -36,6 +36,10 @@ Seeking to leverage research in data field through PhD and leadership expertise 
     <td>Version Control</td>
     <td>Git | GitHub</td>
   </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>mdBook | GitBook</td>
+  </tr>
 </tbody>
 </table>
 
