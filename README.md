@@ -38,7 +38,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
   </tr>
   <tr>
     <td>Documentation</td>
-    <td>mdBook | GitBook</td>
+    <td>mdBook | GitBook | Docusaurus</td>
   </tr>
 </tbody>
 </table>
