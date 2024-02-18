@@ -21,24 +21,24 @@ Seeking to leverage research in data field through PhD and leadership expertise 
     <td>Google Colab, BigQuery, Cloud Storage, Job Scheduler, Vertex AI, Cloud Functions</td>
   </tr>
   <tr>
-    <td>Programming</td>
-    <td>SQL | NoSQL | Python | R | LaTeX | Markdown</td>
-  </tr>
-  <tr>
     <td>AI | ML | DL</td>
-    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | SB3</td>
+    <td>Conda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum (XA) | W&amp;B | Streamlit | SB3 | Label Studio</td>
   </tr>
   <tr>
     <td>IDE</td>
     <td>R Studio | Jupyter Notebook, Lab | Spyder | VSCode</td>
   </tr>
   <tr>
-    <td>Version Control</td>
-    <td>Git | GitHub</td>
+    <td>Programming</td>
+    <td>SQL | NoSQL | Python | R | LaTeX | Markdown</td>
   </tr>
   <tr>
     <td>Documentation</td>
     <td>mdBook | GitBook | Docusaurus</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git | GitHub</td>
   </tr>
 </tbody>
 </table>
